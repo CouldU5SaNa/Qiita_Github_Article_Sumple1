@@ -1,0 +1,2 @@
+# Qiita_Github_Article_Sumple1
+Qiitaで、Githubの設定を説明するときに使用したリポジトリです。
